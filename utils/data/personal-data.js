@@ -1,17 +1,17 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
-  designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  name: "Aditya Karmalkar",
+  profile: '/profile.png', // Update this path if your profile image is stored elsewhere
+  designation: "Software Engineering Student",
+  description: "My name is Aditya Karmalkar. I am a passionate software engineering student and an enthusiastic learner with a knack for solving complex problems. I specialize in web development, cloud security, and e-commerce platforms. I enjoy exploring new technologies, contributing to innovative projects, and making impactful solutions. My core skills include JavaScript, Flutter, and cloud technologies. I am open to exciting opportunities that align with my skills and aspirations.",
+  email: 'adityanv.karmalkar@gmail.com',
+  phone: '+91 8087820521', // Replace with your actual phone number
+  address: 'India', // Add more specific location details if desired
+  github: 'https://github.com/Aditya-Karmalkar',
+  facebook: 'https://www.facebook.com/profile.php?id=100010636148749&mibextid=ZbWKwL', // Replace with your actual Facebook profile
+  linkedIn: 'https://www.linkedin.com/in/aditya-karmalkar-242274262/',
+  twitter: 'https://x.com/?lang=en', // Replace with your actual Twitter profile
+  stackOverflow: 'https://stackoverflow.com/', // Replace {your-id} with your actual Stack Overflow ID
+  leetcode: "https://leetcode.com/", // Replace {your-username} with your actual LeetCode username
+  devUsername: "Aditya Karmalkar", // Update if your Dev.to username differs
+  resume: "https://drive.google.com/file/d/16vOVUFisGBmItVsR2aZkO372EtLmZBUf/view?usp=sharing" // Replace {your-resume-id} with your resume link
 }

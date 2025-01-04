@@ -1,11 +1,10 @@
 export const contactsData = {
-    email: 'abusaid7388@gmail.com',
-    phone: '+8801608797655',
-    address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-    github: 'https://github.com/said7388',
-    facebook: 'https://www.facebook.com/abusaid.riyaz/',
-    linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-    twitter: 'https://twitter.com/said7388',
-    stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-    devUsername: "said7388"
+    email: 'adityanv.karmalkar@gmail.com',
+    phone: '+91 8087820521', // Replace with your actual phone number if needed
+    address: 'India', // Add more details if you'd like
+    github: 'https://github.com/adityakarmalkar', // Update if your GitHub username differs
+    facebook: 'https://www.facebook.com/adityakarmalkar', // Replace with your Facebook profile link
+    linkedIn: 'https://www.linkedin.com/in/adityakarmalkar/',
+    twitter: 'https://twitter.com/adityakarmalkar', // Replace with your Twitter profile link
+    devUsername: "adityakarmalkar" // Update if your Dev.to username differs
 }
